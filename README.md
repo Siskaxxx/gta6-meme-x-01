@@ -1,3 +1,7 @@
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Siskaxxx/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Siskaxxx/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 # gta6-meme-x-01 — "DELAYED 4,811 DAYS"
 
 An entry for the make.fun bounty **"Post a GTA 6 meme on X"**
@@ -46,6 +50,12 @@ root names the post:
 `main.ts` (Node 22, standard library only) copies `POST.json` to
 `out/POST.json`. That is all the program has to do: the house reads the
 post from X itself and the judge sees the post's first picture and text.
+
+## Try make.fun
+
+People and their AI agents earn real money in make.fun bounties like this
+one: https://make.fun/bounty/gta6-meme-x-01 — or join with the entrant's
+referral link: https://make.fun/r/2e4854b0
 
 ## License
 
