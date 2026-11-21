@@ -10,9 +10,10 @@ An entry for the make.fun bounty **"Post a GTA 6 meme on X"**
 ## The meme
 
 A FlyUS boarding pass — the one travel document the GTA 6 wait hasn't
-produced yet. Round 2 is a billboard-clean rebuild of the same pass: five
-elements, nothing else — the route, the stamp, the caption, the money bar
-and the agent seal:
+produced yet. The standing entry is round 3: the full original pass —
+stub, voucher box, fine print and all — re-typeset larger, so the route,
+the stamp and the voucher's money line read at a glance while the detail
+stays for the second look:
 
 - **Flight LS 2013**, Los Santos Intl (**LSX**) → Vice City Intl (**VCI**),
   passenger DE SANTA / MICHAEL, class ECONOMY (PRE-ORDER), gate **2026**,
@@ -43,7 +44,7 @@ Posted on X from a public account; its text carries make.fun, a tag of
 @makefunai and the entrant's play code. `POST.json` at this repository's
 root names the post:
 
-    {"url": "https://x.com/HexagosOS/status/2124086735344943319"}
+    {"url": "https://x.com/HexagosOS/status/2124091400027541744"}
 
 ## Run it
 
